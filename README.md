@@ -29,6 +29,7 @@ Technologies Used
 - Seaborn
 
 Current Progress
+
 ✅ Project planning completed  
 ✅ Dataset collected and organized  
 ✅ Data analysis completed  
